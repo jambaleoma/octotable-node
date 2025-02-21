@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Widget OctoTable B",
+    "button_label": "Riserva un tavolo",
+    "welcome_message": "Benvenuto! Il tuo tavolo sarà riservato per 2 ore.",
+    "css_code": "body { background-color: #cfcfcf; font-family: &#39;Open Sans&#39;, sans-serif; margin: 0; padding: 0; }",
+    "is_open_panel": false,
+    "font": "Open Sans",
+    "theme": "L",
+    "preview_link": "http://localhost:8080/otb/widget/preview.xhtml?wkey=4c7ce45faaa14b67af080c20f756c3e0",
+    "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
+  },
+  {
+    "id": 3,
+    "name": "Widget OctoTable F",
+    "button_label": "Riserva un tavolo",
+    "welcome_message": "Benvenuto! Il tuo tavolo sarà riservato per 2 ore.",
+    "css_code": "body { background-color: #d9d9d9; font-family: &#39;Roboto&#39;, sans-serif; margin: 0; padding: 0; }",
+    "is_open_panel": true,
+    "open_panel": "slot",
+    "font": "Roboto",
+    "theme": "L",
+    "preview_link": "http://localhost:8080/otb/widget/preview.xhtml?wkey=4c7ce45faaa14b67af080c20f756c3e0",
+    "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
+  },
+  {
+    "id": 4,
+    "name": "Widget OctoTable V",
+    "button_label": "PRENOTA",
+    "welcome_message": "Hai uno slot di 1 ora e 45 minuti per prenotazione, ti ringraziamo per aver liberato i tavoli per il servizio successivo. Grazie per la comprensione.",
+    "css_code": "pre {\n  padding: 10px;\n  border-radius: 5px;\n  overflow-x: auto;\n  font-family: &quot;Courier New&quot;, monospace;\n  white-space: pre-wrap;\n}",
+    "is_open_panel": true,
+    "font": "Arial Black",
+    "theme": "L",
+    "preview_link": "http://localhost:8080/otb/widget/preview.xhtml?wkey=4c7ce45faaa14b67af080c20f756c3e0",
+    "open_panel": "calendar",
+    "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
+  },
+  {
+    "id": 5,
+    "name": "Widget OctoTable S",
+    "button_label": "Prenota subito!",
+    "welcome_message": "Hai uno slot di 2 ora e 15 minuti per prenotazione, ti ringraziamo per aver liberato i tavoli per il servizio successivo.",
+    "css_code": ".p-multiselect-label {\n    display: flex;\n    justify-content: center;\n    width: 100%;\n  }\n\n  .p-multiselect-clear-icon {\n    right: 2.357rem;\n    color: red;\n  }",
+    "is_open_panel": true,
+    "theme": "D",
+    "preview_link": "http://localhost:8080/otb/widget/preview.xhtml?wkey=4c7ce45faaa14b67af080c20f756c3e0",
+    "font": "Garamond",
+    "open_panel": "slot",
+    "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
+  }
+]
