@@ -12,19 +12,6 @@
     "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
   },
   {
-    "id": 3,
-    "name": "Widget OctoTable F",
-    "button_label": "Riserva un tavolo",
-    "welcome_message": "Benvenuto! Il tuo tavolo sarà riservato per 2 ore.",
-    "css_code": "body { background-color: #d9d9d9; font-family: &#39;Roboto&#39;, sans-serif; margin: 0; padding: 0; }",
-    "is_open_panel": true,
-    "open_panel": "slot",
-    "font": "Roboto",
-    "theme": "L",
-    "preview_link": "http://localhost:8080/otb/widget/preview.xhtml?wkey=4c7ce45faaa14b67af080c20f756c3e0",
-    "source_code": "<script src='http://localhost:8080/otb/resources/widget/js/form_full.js'></script>"
-  },
-  {
     "id": 4,
     "name": "Widget OctoTable V",
     "button_label": "PRENOTA",
