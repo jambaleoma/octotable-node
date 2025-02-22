@@ -13,7 +13,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // API Routes
-app.use("/api/widgets", widgetRoutes);
+app.use("/octotable-pms/api/v2/widgets", widgetRoutes);
 
 // Avvio del server
 app.listen(PORT, () => {
